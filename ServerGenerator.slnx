@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ServerGenerator.Client/ServerGenerator.Client.csproj" />
+  <Project Path="ServerGenerator/ServerGenerator.csproj" />
+</Solution>
